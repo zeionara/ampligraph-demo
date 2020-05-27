@@ -1,0 +1,22 @@
+Jorah Mormont,SPOUSE,Daenerys Targaryen
+Tyrion Lannister,SPOUSE,Missandei
+King's Landing,SEAT_OF,House Lannister of Casterly Rock
+Sansa Stark,SPOUSE,Petyr Baelish
+Daenerys Targaryen,SPOUSE,Jon Snow
+Daenerys Targaryen,SPOUSE,Craster
+House Stark of Winterfell,IN_REGION,The North
+House Stark of Winterfell,IN_REGION,Dorne
+House Tyrell of Highgarden,IN_REGION,Beyond the Wall
+Brandon Stark,ALLIED_WITH,House Stark of Winterfell
+Brandon Stark,ALLIED_WITH,House Lannister of Casterly Rock
+Rhaegar Targaryen,PARENT_OF,Jon Snow
+House Hutcheson,SWORN_TO,House Tyrell of Highgarden
+Daenerys Targaryen,ALLIED_WITH,House Stark of Winterfell
+Daenerys Targaryen,ALLIED_WITH,House Lannister of Casterly Rock
+Jaime Lannister,PARENT_OF,Myrcella Baratheon
+Robert I Baratheon,PARENT_OF,Myrcella Baratheon
+Cersei Lannister,PARENT_OF,Myrcella Baratheon
+Cersei Lannister,PARENT_OF,Brandon Stark
+Tywin Lannister,PARENT_OF,Jaime Lannister
+Missandei,SPOUSE,Grey Worm
+Brienne of Tarth,SPOUSE,Jaime Lannister
